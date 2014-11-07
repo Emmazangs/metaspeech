@@ -284,12 +284,12 @@
 		padding: 6em 2em 6em 2em;
 	}
 
-	#footer-wrapper
+	#about
 	{
 		padding-top: 3em;
 	}
 
-		#footer-wrapper .feature-list section
+		#about .feature-list section
 		{
 			border-top-color: #eee;
 			border-top-color: rgba(255,255,255,0.05);

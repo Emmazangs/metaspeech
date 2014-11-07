@@ -657,116 +657,116 @@
 			background: url('images/overlay.png');
 		}
 
-	#footer-wrapper
+	#about
 	{
 		background: #282b34 url('images/overlay.png');
 		color: #eee;
 		color: rgba(255,255,255,0.5);
 	}
 
-		#footer-wrapper h1,
-		#footer-wrapper h2,
-		#footer-wrapper h3,
-		#footer-wrapper h4,
-		#footer-wrapper h5,
-		#footer-wrapper h6,
-		#footer-wrapper strong,
-		#footer-wrapper b,
-		#footer-wrapper a
+		#about h1,
+		#about h2,
+		#about h3,
+		#about h4,
+		#about h5,
+		#about h6,
+		#about strong,
+		#about b,
+		#about a
 		{
 			color: #fff;
 		}
 
-		#footer-wrapper hr
+		#about hr
 		{
 			border-top-color: #333;
 			border-top-color: rgba(255,255,255,0.05);
 		}
 
-		#footer-wrapper form
+		#about form
 		{
 		}
 
-			#footer-wrapper form input[type="text"],
-			#footer-wrapper form input[type="email"],
-			#footer-wrapper form input[type="password"],
-			#footer-wrapper form select,
-			#footer-wrapper form textarea
+			#about form input[type="text"],
+			#about form input[type="email"],
+			#about form input[type="password"],
+			#about form select,
+			#about form textarea
 			{
 				background: #ccc;
 				box-shadow: none;
 			}
 
-			#footer-wrapper form input[type="text"]:focus,
-			#footer-wrapper form input[type="email"]:focus,
-			#footer-wrapper form input[type="password"]:focus,
-			#footer-wrapper form select:focus,
-			#footer-wrapper form textarea:focus
+			#about form input[type="text"]:focus,
+			#about form input[type="email"]:focus,
+			#about form input[type="password"]:focus,
+			#about form select:focus,
+			#about form textarea:focus
 			{
 				background: #fff;
 			}
 
-		#footer-wrapper input[type="button"].style2,
-		#footer-wrapper input[type="submit"].style2,
-		#footer-wrapper input[type="reset"].style2,
-		#footer-wrapper .button.style2
+		#about input[type="button"].style2,
+		#about input[type="submit"].style2,
+		#about input[type="reset"].style2,
+		#about .button.style2
 		{
 			color: #aaa;
 			box-shadow: inset 0px 0px 2px 0px rgba(255,255,255,0.5);
 		}
 
-			#footer-wrapper input[type="button"].style2:hover,
-			#footer-wrapper input[type="submit"].style2:hover,
-			#footer-wrapper input[type="reset"].style2:hover,
-			#footer-wrapper .button.style2:hover
+			#about input[type="button"].style2:hover,
+			#about input[type="submit"].style2:hover,
+			#about input[type="reset"].style2:hover,
+			#about .button.style2:hover
 			{
 				color: #ccc;
 				box-shadow: inset 0px 0px 2px 0px rgba(255,255,255,0.65);
 			}
 
-			#footer-wrapper input[type="button"].style2:active,
-			#footer-wrapper input[type="submit"].style2:active,
-			#footer-wrapper input[type="reset"].style2:active,
-			#footer-wrapper .button.style2:active
+			#about input[type="button"].style2:active,
+			#about input[type="submit"].style2:active,
+			#about input[type="reset"].style2:active,
+			#about .button.style2:active
 			{
 				box-shadow: inset 0px 0px 2px 0px rgba(255,255,255,0.75);
 			}
 
-		#footer-wrapper .title
+		#about .title
 		{
 			background: #282b34 url('images/overlay.png');
 			color: #eee;
 		}
 
-		#footer-wrapper header.style1
+		#about header.style1
 		{
 		}
 
-			#footer-wrapper header.style1 h2
+			#about header.style1 h2
 			{
 				color: #fff;
 			}
 
-			#footer-wrapper header.style1 .p
+			#about header.style1 .p
 			{
 				color: inherit;
 			}
 
-		#footer-wrapper .feature-list
+		#about .feature-list
 		{
 		}
 
-			#footer-wrapper .feature-list section
+			#about .feature-list section
 			{
 				border-top-color: #333;
 				border-top-color: rgba(255,255,255,0.05);
 			}
 
-			#footer-wrapper .feature-list h3
+			#about .feature-list h3
 			{
 			}
 
-				#footer-wrapper .feature-list h3:before
+				#about .feature-list h3:before
 				{
 					background: #3d4249 url('images/overlay.png');
 				}
