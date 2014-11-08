@@ -410,7 +410,7 @@
 			input[type="reset"].style3,
 			.button.style3
 			{
-				background: #2f333b url('images/overlay.png');
+				background: #a0a1a7 url('images/overlay.png');
 				color: #fff;
 			}
 
@@ -427,7 +427,7 @@
 				input[type="reset"].style3:active,
 				.button.style3:active
 				{
-					background-color: #1f232b;
+					background-color: #a0a1a7;
 				}
 
 	/* List */
