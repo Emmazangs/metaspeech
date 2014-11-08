@@ -368,7 +368,7 @@
 				input[type="reset"].style1:hover,
 				.button.style1:hover
 				{
-					background-color: #a0a1a7;
+					background-color: #606167;
 				}
 
 				input[type="button"].style1:active,
@@ -376,7 +376,7 @@
 				input[type="reset"].style1:active,
 				.button.style1:active
 				{
-					background-color: #a0a1a7;
+					background-color: #202127;
 				}
 
 			input[type="button"].style2,
@@ -419,7 +419,7 @@
 				input[type="reset"].style3:hover,
 				.button.style3:hover
 				{
-					background-color: #3f434b;
+					background-color: #606167;
 				}
 
 				input[type="button"].style3:active,
@@ -427,7 +427,7 @@
 				input[type="reset"].style3:active,
 				.button.style3:active
 				{
-					background-color: #a0a1a7;
+					background-color: #202127;
 				}
 
 	/* List */
