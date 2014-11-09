@@ -642,9 +642,9 @@
 
 	#header-wrapper
 	{
-		background: 
-		color: #000000;
-		background-size: cover;
+		background: #262937 url('images/overlay.png');
+			color: #eee;
+			color: rgba(255,255,255,0.75);
 	}
 
 		#header-wrapper:before
