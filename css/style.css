@@ -33,15 +33,10 @@
 			animation: none !important;
 		}
 
-	h1,h3,h4,h5,h6
+	h1,h2,h3,h4,h5,h6
 	{
 		font-weight: 700;
 		color: #484d55;
-	}
-	
-	h2
-	{
-		font-weight: 1400;
 	}
 	
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a
@@ -282,12 +277,12 @@
 
 			header.style1 h2
 			{
-				font-weight: 1400;
+				font-weight: 700;
 			}
 
 			header.style1 p
 			{
-				color: #fcdc41;
+				color: #fbe700;
 			}
 
 	/* Image */
@@ -365,7 +360,7 @@
 			.button.style1
 			{
 				background: #a0a1a7 url('images/overlay.png');
-				color: #fff;
+				color: #fbe700;
 			}
 
 				input[type="button"].style1:hover,
