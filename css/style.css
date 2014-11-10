@@ -360,7 +360,7 @@
 			.button.style1
 			{
 				background: #a0a1a7 url('images/overlay.png');
-				color: #fbe700;
+				color: #606167;
 			}
 
 				input[type="button"].style1:hover,
@@ -411,7 +411,7 @@
 			.button.style3
 			{
 				background: #a0a1a7 url('images/overlay.png');
-				color: #fff;
+				color: #fbe700;
 			}
 
 				input[type="button"].style3:hover,
