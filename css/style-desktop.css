@@ -284,12 +284,12 @@
 	#header
 	{
 		position: relative;
-		padding: 12em 0;
+		/*height: 360px;*/
 	}
 
 		.homepage #header
 		{
-			padding: 15em 0;
+			/*padding: 15em 0;*/
 		}
 
 /*********************************************************************************/
@@ -298,17 +298,18 @@
 
 	#logo
 	{
-		position: absolute;
-		height: 5em;
-		top: 50%;
-		left: 0;
-		width: 100%;
+		/*position: absolute;*/
+		/*height: 5em;
+		top: 50%;*/
+		/*left: 0;
+		width: 100%;*/
 		text-align: center;
 	}
 
 		.homepage #logo img {
-			margin-top: -120px;
-			width: 300px;
+			/*margin-top: -135px;*/
+			width: 240px;
+			margin: 20px 0 50px 0;
 		}
 
 /*********************************************************************************/
