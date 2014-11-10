@@ -410,7 +410,7 @@
 			input[type="reset"].style3,
 			.button.style3
 			{
-				background: #a0a1a7 url('images/overlay.png');
+				background: none ;
 				color: #fbe700;
 			}
 
