@@ -38,7 +38,7 @@
 		font-weight: 700;
 		color: #484d55;
 	}
-	
+
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a
 	{
 		color: inherit;
@@ -855,3 +855,11 @@
 			{
 				color: #fff;
 			}
+
+#features-wrapper {
+	background: url(../images/workshop1.jpg) no-repeat center center fixed !important;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
