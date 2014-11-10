@@ -282,7 +282,7 @@
 
 			header.style1 p
 			{
-				color: #fbe700;
+				color: #fee000;
 			}
 
 	/* Image */
@@ -410,8 +410,8 @@
 			input[type="reset"].style3,
 			.button.style3
 			{
-				background: #fbe700 ;
-				color: #fbe700;
+				background: #fee000 ;
+				color: #fee000;
 			}
 
 				input[type="button"].style3:hover,
